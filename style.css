@@ -1,11 +1,11 @@
 @font-face {
       font-family: HelveticaNeue;
-      src: url(https://dev.real-estate.kib.com.kw/terms/fonts/CordaMed.otf) format("opentype");
+      src: url(https://raw.githubusercontent.com/e55o/git-test/main/HelveticaNeue.ttf) format("truetype");
     }
 
     @font-face {
       font-family: Boutros;
-      src: url(https://dev.real-estate.kib.com.kw/terms/fonts/BoutrosDinkum-Regular.otf) format("opentype");
+      src: url(https://raw.githubusercontent.com/e55o/git-test/main/BoutrosDinkum-Regular.otf) format("opentype");
     }
 
     @media only screen and (max-width: 620px) {
