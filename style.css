@@ -1,0 +1,81 @@
+@font-face {
+      font-family: HelveticaNeue;
+      src: url(https://dev.real-estate.kib.com.kw/terms/fonts/CordaMed.otf) format("opentype");
+    }
+
+    @font-face {
+      font-family: Boutros;
+      src: url(https://dev.real-estate.kib.com.kw/terms/fonts/BoutrosDinkum-Regular.otf) format("opentype");
+    }
+
+    @media only screen and (max-width: 620px) {
+
+      table[class="body"] a,
+      table[class="body"] p,
+      table[class="body"] span,
+      table[class="body"] td {
+        font-size: 16px !important;
+      }
+
+      table[class="body"] .wrapper {
+        padding: 10px !important;
+      }
+
+      table[class="body"] .content {
+        padding: 0 !important;
+      }
+
+      table[class="body"] .container {
+        padding: 0 !important;
+        width: 100% !important;
+      }
+
+      table[class="body"] .main {
+        border-left-width: 0 !important;
+        border-radius: 0 !important;
+        border-right-width: 0 !important;
+      }
+
+      table[class="body"] .btn table {
+        width: 100% !important;
+      }
+
+      table[class="body"] .btn a {
+        width: 100% !important;
+      }
+    }
+
+    @media all {
+      .apple-link {
+        color: inherit !important;
+        font-family: inherit !important;
+        font-size: 16px !important;
+        align-self: center;
+      }
+
+      .kib-page {
+        color: inherit !important;
+        font-family: inherit !important;
+        font-size: 16px !important;
+        align-self: center;
+        padding-left: 10px;
+      }
+
+      .button-logo {
+        height: 18px;
+        vertical-align: middle;
+        padding-top: 0;
+      }
+
+      .button-text {
+        color: #fff;
+        vertical-align: middle;
+        display: inline;
+        display: inline-table;
+        display: inline-block;
+      }
+
+      .link-container {
+        height: 50px !important;
+      }
+    }
